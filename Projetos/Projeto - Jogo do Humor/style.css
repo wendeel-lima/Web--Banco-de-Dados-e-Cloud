@@ -1,0 +1,42 @@
+header h1{
+    background-color: blue;
+    margin: 10px 0;
+    padding: 40px;
+    text-align: center;
+    color: white
+}
+
+div {
+    
+    margin-left: 43%;
+}
+
+
+
+.enviar {
+    display:inline-block;
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-bottom: 20px;
+    width: 40%;
+    padding: 15px 0 ;
+    font-size: 18px;
+    font-weight: bold;
+    background: orange;
+    color: white;
+    border:none;
+    border-radius: 5px;
+    transition: 1s background;
+    cursor: pointer;
+
+}
+
+.enviar:hover{
+    background: darkorange;
+}
+.rodapéfooter {
+    border-top: 1px solid;
+    text-align: center;
+    padding: 40px 0;
+    margin-top: 20px 0 0 0;
+}
